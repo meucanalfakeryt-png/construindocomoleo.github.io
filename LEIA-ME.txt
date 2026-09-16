@@ -1,0 +1,22 @@
+CONSTRUINDO COM O LÉO — SITE GRATUITO
+
+Arquivos:
+- index.html = site completo
+- logo.jpg = logo enviada
+- qr-whatsapp.png = QR Code do WhatsApp
+- qr-instagram.png = QR Code do Instagram
+
+Links configurados:
+WhatsApp: https://wa.me/5548992050157
+Instagram: https://instagram.com/construindocomoleo
+
+Para colocar no ar gratuitamente:
+1. Crie uma conta no GitHub.
+2. Crie um repositório público, por exemplo: construindo-com-o-leo.
+3. Envie todos os arquivos desta pasta para o repositório.
+4. Em Settings > Pages, selecione a publicação pelo branch "main" e pasta "/ (root)".
+5. O GitHub fornecerá um endereço gratuito terminado em github.io.
+6. O site funciona no Android, iPhone e computador.
+
+IMPORTANTE:
+Os QR Codes apontam diretamente para WhatsApp e Instagram. Se no futuro você trocar o número ou o @, gere novos QR Codes.
